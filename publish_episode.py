@@ -14,7 +14,7 @@ KEEP = 30
 SHOW = {
     "title": "Petit Matin Good Vibes",
     "author": "Petit Matin Good Vibes",
-    "description": ("Chaque matin, six minutes : un conseil de management, une idée de voyage en Asie, "
+    "description": ("Chaque matin, sept minutes : les quatre infos du jour (France, monde, Asie, États-Unis), un conseil de management, une idée de voyage en Asie, "
                     "les modes et anecdotes du Japon, de la Corée et de la Chine, une citation française, "
                     "un moment de l'histoire de France et un fait de culture générale. Voix de synthèse."),
     "language": "fr-fr",

@@ -3,7 +3,7 @@ Render each paragraph (blank-line separated) of a French script with Kyutai TTS 
 Resumable: paragraphs already rendered (pNNN.wav) are skipped. Prints "i n" per paragraph and DONE.
 Needs: pip install --break-system-packages torch moshi ; huggingface.co and *.hf.co reachable.
 """
-import sys, os, wave, numpy as np, torch
+import sys, os, re, wave, numpy as np, torch
 from moshi.models.loaders import CheckpointInfo
 from moshi.models.tts import DEFAULT_DSM_TTS_REPO, TTSModel
 
@@ -12,7 +12,26 @@ torch.set_num_threads(os.cpu_count() or 2)
 script, outdir = sys.argv[1:3]
 voice = sys.argv[3] if len(sys.argv) > 3 else VOICE
 os.makedirs(outdir, exist_ok=True)
-paras = [p.strip() for p in open(script, encoding="utf-8").read().split("\n\n") if p.strip()]
+def load_lexicon():
+    """Pronunciation fixes from prononciation.txt at the repo root: 'Correct spelling => phonetic'."""
+    path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "prononciation.txt")
+    pairs = []
+    if os.path.exists(path):
+        for line in open(path, encoding="utf-8"):
+            line = line.strip()
+            if line and not line.startswith("#") and "=>" in line:
+                a, b = (s.strip() for s in line.split("=>", 1))
+                if a and b and a != b:
+                    pairs.append((a, b))
+    return sorted(pairs, key=lambda ab: -len(ab[0]))  # longest names first
+
+LEX = load_lexicon()
+def speakable(text):
+    for a, b in LEX:
+        text = re.sub(r"(?<![\w-])" + re.escape(a) + r"(?![\w-])", b, text)
+    return text
+
+paras = [speakable(p.strip()) for p in open(script, encoding="utf-8").read().split("\n\n") if p.strip()]
 model = TTSModel.from_checkpoint_info(CheckpointInfo.from_hf_repo(DEFAULT_DSM_TTS_REPO), n_q=32, temp=0.6,
                                       device=torch.device("cpu"), dtype=torch.bfloat16)
 cond = model.make_condition_attributes([model.get_voice_path(voice)], cfg_coef=2.0)

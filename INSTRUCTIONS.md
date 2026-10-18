@@ -1,33 +1,42 @@
 # Petit Matin Good Vibes — recette de production
 
 Podcast quotidien en français, 7 jours sur 7, pour Nicolas (Londres, cadre senior en finance,
-marié, un fils d'âge scolaire). Durée cible : **5 à 7 minutes** (950 à 1 100 mots de script : la voix lit environ
-165 mots par minute ; jamais plus de 1 200). Épisode publié dans le fil Apple Podcasts **avant 6h00, heure de Londres**.
+marié, un fils d'âge scolaire). Durée cible : **6 à 7 minutes** (1 000 à 1 150 mots de script :
+la voix lit environ 165 mots par minute ; jamais plus de 1 200). Épisode publié dans le fil
+Apple Podcasts **avant 6h00, heure de Londres**.
 
-## 1. Les six rubriques (toujours dans cet ordre)
+## 1. Les sept rubriques (toujours dans cet ordre)
 
-1. **Le conseil management du jour** (≈150 mots). Un outil concret, applicable aujourd'hui :
+1. **Les quatre infos du jour** (≈200 mots au total, ≈50 mots chacune) : une actualité
+   **France**, une **monde**, une **Asie**, une **États-Unis**, toutes des dernières 24 heures
+   (source datée du jour ou de la veille). Factuel, neutre, sans opinion ; l'essentiel en deux ou
+   trois phrases : quoi, qui, pourquoi ça compte. Éviter les faits divers sordides.
+2. **Le conseil management du jour** (≈130 mots). Un outil concret, applicable aujourd'hui :
    d'où il vient (auteur, entreprise, étude réelle et vérifiée), pourquoi il marche, comment
-   le faire en pratique (durée, étapes). Public : manager senior en finance. Pas de banalités
+   le faire en pratique. Public : manager senior en finance. Pas de banalités
    (« écoutez vos équipes ») ; des méthodes précises (pré-mortem, RACI, désaccord et engagement,
    one-on-one, revue après action, délégation par niveaux, feedback SBI, etc.).
-2. **L'idée de voyage** (≈150 mots), surtout en **Asie** (Japon, Corée, Chine, Taïwan, Asie du
-   Sud-Est, Inde…) ; environ une fois sur cinq, ailleurs. Toujours **de saison** (feuillages,
-   festivals, météo) et datée quand un événement a lieu. Trois étapes concrètes et un conseil
-   pratique. Vérifier les dates d'événements sur une source de l'année en cours.
-3. **L'Asie qui bouge : mode ou anecdote du Japon, de la Corée ou de la Chine** (≈170 mots).
+3. **L'idée de voyage** (≈150 mots), surtout en **Asie** (Japon, Corée, Chine, Taïwan, Asie du
+   Sud-Est, Inde…) ; environ une fois sur cinq, ailleurs. **Focus sur le lieu lui-même : son
+   histoire, sa culture, ses coutumes et habitudes locales** (rituels, étiquette, gestes du
+   quotidien, fêtes, spécialités et la façon de les manger, ce que font les habitants). De saison
+   si possible.
+   **Interdits** dans cette rubrique : temps de trajet et moyens de transport, durée de séjour
+   conseillée (« comptez deux jours… »), classements et références à des magazines ou guides
+   (National Geographic, Condé Nast, BBC, Lonely Planet, « top 10 »…), « conseil d'amie » et
+   conseils pratiques de voyageur. À la place : une coutume ou une habitude locale expliquée.
+4. **L'Asie qui bouge : mode ou anecdote du Japon, de la Corée ou de la Chine** (≈140 mots).
    Une tendance ou une histoire **récente** (moins de 2 mois, source datée), avec un chiffre ou un
-   détail concret. Alterner les pays d'un jour à l'autre (consulter history.json) ; on peut
-   ajouter une brève sur un deuxième pays.
-4. **La citation française** (≈60 mots). Auteur français ou francophone, citation **authentique
+   détail concret. Alterner les pays d'un jour à l'autre (consulter history.json).
+5. **La citation française** (≈50 mots). Auteur français ou francophone, citation **authentique
    et vérifiée** (attention aux citations apocryphes, ex. le « bateau » attribué à
    Saint-Exupéry, le « je ne suis pas d'accord » attribué à Voltaire : à éviter). Préférer des
    auteurs tombés dans le domaine public (morts avant 1956). Une phrase courte, puis une ou deux
    phrases de commentaire avec une pointe d'esprit.
-5. **Un moment de l'histoire de France** (≈180 mots). De préférence un événement survenu **à la
+6. **Un moment de l'histoire de France** (≈150 mots). De préférence un événement survenu **à la
    même date** (« ce jour-là, en… »), sinon un épisode marquant. Faits, chiffres, un détail
    vivant, et si possible un lien avec Londres, la finance ou aujourd'hui.
-6. **Le fait de culture générale** (≈150 mots). Un fait historique important, mondial, de
+7. **Le fait de culture générale** (≈130 mots). Un fait historique important, mondial, de
    préférence à la même date, avec une anecdote mémorable. Conclure par une chute qui relie, si
    possible, à une autre rubrique du jour.
 
@@ -38,14 +47,19 @@ demain. » (on peut varier légèrement).
 ## 2. Ton
 
 Une voix parisienne : vive, complice, élégante, une pointe d'humour, jamais niaise. Vouvoiement.
-Phrases courtes. Transitions brèves (« Deuxième rubrique : … »). L'animatrice ne se donne pas de
-nom. Ne jamais citer le prénom de l'auditeur ni des détails personnels dans l'épisode.
+Phrases courtes. **Transitions naturelles, jamais d'annonce de rubrique** : ne pas dire
+« prochaine rubrique », « deuxième rubrique », « sixième et dernière rubrique », ni numéroter.
+Enchaîner par le sujet lui-même (« Cap sur Kyoto. », « Côté management, un outil simple : … »,
+« Et ce jour-là, en seize cent quatre-vingt-cinq… »). L'animatrice ne se donne pas de nom. Ne
+jamais citer le prénom de l'auditeur ni des détails personnels dans l'épisode.
 
 ## 3. Recherche (≈12 minutes, 8 à 15 recherches)
 
 - WebSearch (mode « extended » pour l'actualité) puis WebFetch pour lire la page.
-- Rubriques 2 et 3 : sources de l'année en cours, dates vérifiées sur la page.
-- Rubriques 5 et 6 : « <jour> <mois> dans l'histoire », Hérodote.net (« <jour>_<mois>_<année> »),
+- Rubrique 1 (infos) : sources fiables et datées (AFP, Reuters, AP, Le Monde, France Info, BBC,
+  NHK, Yonhap, SCMP…), du jour ou de la veille ; vérifier la date sur la page.
+- Rubriques 3 et 4 : sources de l'année en cours, dates vérifiées sur la page.
+- Rubriques 6 et 7 : « <jour> <mois> dans l'histoire », Hérodote.net (« <jour>_<mois>_<année> »),
   Wikipédia ; confirmer date et chiffres sur une deuxième source si possible. Quand les
   historiens divergent, donner une fourchette.
 - Ne rien inventer. Paraphraser les sources ; pas de longues citations d'articles.
@@ -57,8 +71,15 @@ nom. Ne jamais citer le prénom de l'auditeur ni des détails personnels dans l'
 
 - Nombres et dates en toutes lettres : « seize cent quatre-vingt-cinq », « soixante-trois pour
   cent », « sept millions deux cent mille dollars ».
-- Sigles épelés ou développés ; mots étrangers écrits comme ils se prononcent si la voix risque
-  de les écorcher (tester au besoin).
+- Sigles épelés ou développés.
+- **Noms propres (artistes, personnalités, lieux, mots étrangers) : prononciation exacte.** La
+  voix lit le texte « à la française » : un nom anglais, japonais, coréen ou chinois écrit tel
+  quel est souvent écorché. Dans le script on garde l'orthographe correcte, et on ajoute dans
+  `prononciation.txt` (une ligne par nom : `Orthographe correcte => graphie phonétique française`)
+  chaque nom étranger ou difficile qui n'y est pas encore. Le rendu audio applique ces
+  remplacements automatiquement. Vérifier aussi les noms français piégeux (Saint-Exupéry,
+  La Rochefoucauld, Montaigne…) et l'accord des prénoms. Relire la liste des noms du script
+  avant de lancer la voix ; en cas de doute, rendre le paragraphe seul et vérifier sa durée.
 - Paragraphes de moins de 100 mots, séparés par une ligne vide (chaque paragraphe est lu
   séparément, avec une courte pause).
 - Enregistrer le script : `petit_matin_YYYY-MM-DD.txt`.
@@ -106,7 +127,7 @@ clairement dans le message à l'auditeur.
 ## 6. Publication
 
 ```bash
-python3 publish_episode.py . https://k95hjfrvg2-del.github.io/le-petit-matin $S/Petit_Matin_YYYY-MM-DD.mp3 "<Jour JJ mois> : <titre de 3 à 6 mots>" "<une phrase résumant les six rubriques>" YYYY-MM-DD
+python3 publish_episode.py . https://k95hjfrvg2-del.github.io/le-petit-matin $S/Petit_Matin_YYYY-MM-DD.mp3 "<Jour JJ mois> : <titre de 3 à 6 mots>" "<une phrase résumant les rubriques du jour>" YYYY-MM-DD
 ```
 
 Puis commit (auteur Claude <noreply@anthropic.com>, message « Épisode YYYY-MM-DD ») incluant episodes/, episodes.json, feed.xml, history.json ; push sur main
