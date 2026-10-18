@@ -65,44 +65,48 @@ nom. Ne jamais citer le prénom de l'auditeur ni des détails personnels dans l'
 
 ## 5. Audio (S = dossier de travail temporaire)
 
-Voix : **Kokoro v1.0, voix ff_siwis, vitesse 1.08, langue fr-fr**. Hugging Face et GitHub
-releases sont bloqués ; le modèle est fourni dans le paquet npm expo-kokoro.
+Voix choisie par l'auditeur : **Kyutai TTS 1.6B en_fr, voix « L »
+(cml-tts/fr/10177_10625_000134-0003_enhanced.wav)**. Ne pas la changer sans son accord. Les voix
+Kokoro (ff_siwis), XTTS et Piper ont été jugées trop robotiques.
+
+Installation (≈5 minutes, à lancer en arrière-plan dès le début, pendant la recherche) :
 
 ```bash
-mkdir -p $S/kok/expo && cd $S/kok/expo
-npm pack expo-kokoro && tar xzf expo-kokoro-*.tgz
-pip install --break-system-packages -q kokoro-onnx
-python3 - <<EOF
-import numpy as np, glob, os
-P = "$S/kok/expo/package/build"
-d = {os.path.basename(f)[:-4]: np.fromfile(f, dtype=np.float32).reshape(-1, 1, 256) for f in glob.glob(P + "/voices/*.bin")}
-np.savez("$S/kok/voices_v1.npz", **d)
-EOF
+pip install --break-system-packages -q torch torchaudio moshi
+mkdir -p $S/sf && curl -sS -L -o $S/sf/GeneralUser-GS.sf2 "https://huggingface.co/datasets/jbilcke/soundfonts/resolve/main/GeneralUser-GS.sf2"
+pip install --break-system-packages -q --no-deps tinysoundfont
 ```
 
-Installer pendant la recherche (en arrière-plan) pour gagner du temps.
+(Le modèle Kyutai, ≈3 Go, se télécharge tout seul depuis huggingface.co au premier rendu.)
 
-Rendu de la voix (≈1,3 × temps réel : compter 10 à 15 minutes), en arrière-plan, reprise possible :
+Rendu de la voix : **compter 7 à 8 fois la durée audio, soit 45 à 55 minutes** pour un épisode
+de 6 minutes. Lancer dès que le script est final, en arrière-plan (reprise possible : les
+paragraphes déjà rendus sont conservés) :
 
 ```bash
-P=$S/kok/expo/package/build
-nohup python3 <repo>/tools/tts_paras.py $P/kokoro-quantized.onnx $S/kok/voices_v1.npz petit_matin_YYYY-MM-DD.txt $S/paras ff_siwis 1.08 > $S/tts.log 2>&1 &
+python3 -I <repo>/tools/kyutai_paras.py petit_matin_YYYY-MM-DD.txt $S/paras > $S/tts.log 2>&1
 ```
 
-Musique (originale, style café parisien, 3 s de calcul) puis assemblage :
+Suivre la progression dans $S/tts.log (une ligne « i n » par paragraphe, puis DONE).
+
+Générique (original, pop française « good vibes » avec touche japonaise au koto, 1 s de calcul),
+puis assemblage :
 
 ```bash
-python3 <repo>/tools/bed_cafe.py $S/bed.wav 34
-bash <repo>/tools/assemble.sh $S/paras $S/bed.wav $S/Le_Petit_Matin_YYYY-MM-DD.mp3
+python3 <repo>/tools/bed_pop.py $S/sf/GeneralUser-GS.sf2 $S/bed.wav 34
+bash <repo>/tools/assemble.sh $S/paras $S/bed.wav $S/Petit_Matin_YYYY-MM-DD.mp3
 ```
 
 Vérifier la durée affichée (5 à 7 minutes, fin non coupée).
-Ne jamais utiliser espeak seul, festival ou Piper : voix jugées robotiques.
+
+Plan de secours, seulement si Kyutai ne s'installe pas ou plante : voix Kokoro ff_siwis
+(`tools/tts_paras.py`, modèle du paquet npm expo-kokoro, voir l'historique git), et le signaler
+clairement dans le message à l'auditeur.
 
 ## 6. Publication
 
 ```bash
-python3 publish_episode.py . https://k95hjfrvg2-del.github.io/le-petit-matin $S/Le_Petit_Matin_YYYY-MM-DD.mp3 "<Jour JJ mois> : <titre de 3 à 6 mots>" "<une phrase résumant les six rubriques>" YYYY-MM-DD
+python3 publish_episode.py . https://k95hjfrvg2-del.github.io/le-petit-matin $S/Petit_Matin_YYYY-MM-DD.mp3 "<Jour JJ mois> : <titre de 3 à 6 mots>" "<une phrase résumant les six rubriques>" YYYY-MM-DD
 ```
 
 Puis commit (auteur Claude <noreply@anthropic.com>, message « Épisode YYYY-MM-DD ») incluant episodes/, episodes.json, feed.xml, history.json ; push sur main
