@@ -2,7 +2,7 @@
 
 Podcast quotidien en français, 7 jours sur 7, pour Nicolas (Londres, cadre senior en finance,
 marié, un fils d'âge scolaire). Durée cible : **5 à 7 minutes** (950 à 1 100 mots de script : la voix lit environ
-175 mots par minute ; jamais plus de 1 200). Épisode publié dans le fil Apple Podcasts **avant 6h00, heure de Londres**.
+165 mots par minute ; jamais plus de 1 200). Épisode publié dans le fil Apple Podcasts **avant 6h00, heure de Londres**.
 
 ## 1. Les six rubriques (toujours dans cet ordre)
 
