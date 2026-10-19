@@ -5,15 +5,26 @@
   <link>https://k95hjfrvg2-del.github.io/le-petit-matin/</link>
   <atom:link href="https://k95hjfrvg2-del.github.io/le-petit-matin/feed.xml" rel="self" type="application/rss+xml"/>
   <language>fr-fr</language>
-  <description>Chaque matin, six minutes : un conseil de management, une idée de voyage en Asie, les modes et anecdotes du Japon, de la Corée et de la Chine, une citation française, un moment de l'histoire de France et un fait de culture générale. Voix de synthèse.</description>
+  <description>Chaque matin, sept minutes : les quatre infos du jour (France, monde, Asie, États-Unis), un conseil de management, une idée de voyage en Asie, les modes et anecdotes du Japon, de la Corée et de la Chine, une citation française, un moment de l'histoire de France et un fait de culture générale. Voix de synthèse.</description>
   <itunes:author>Petit Matin Good Vibes</itunes:author>
-  <itunes:summary>Chaque matin, six minutes : un conseil de management, une idée de voyage en Asie, les modes et anecdotes du Japon, de la Corée et de la Chine, une citation française, un moment de l'histoire de France et un fait de culture générale. Voix de synthèse.</itunes:summary>
+  <itunes:summary>Chaque matin, sept minutes : les quatre infos du jour (France, monde, Asie, États-Unis), un conseil de management, une idée de voyage en Asie, les modes et anecdotes du Japon, de la Corée et de la Chine, une citation française, un moment de l'histoire de France et un fait de culture générale. Voix de synthèse.</itunes:summary>
   <itunes:image href="https://k95hjfrvg2-del.github.io/le-petit-matin/cover.jpg"/>
   <itunes:category text="Society &amp; Culture"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:owner><itunes:name>Petit Matin Good Vibes</itunes:name><itunes:email>podcast@users.noreply.github.com</itunes:email></itunes:owner>
-  <lastBuildDate>Sun, 18 Oct 2026 17:23:26 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 03:51:06 +0000</lastBuildDate>
+  <item>
+   <title>Lundi 19 octobre : du Kremlin au lundi noir</title>
+   <description>France en colère, Ormuz, Jeux paralympiques asiatiques, sanctions russes suspendues ; feedback SBI ; fête des époques à Kyoto ; Pompompurin a trente ans ; Pascal ; Napoléon quitte Moscou ; le krach de 1987.</description>
+   <itunes:summary>France en colère, Ormuz, Jeux paralympiques asiatiques, sanctions russes suspendues ; feedback SBI ; fête des époques à Kyoto ; Pompompurin a trente ans ; Pascal ; Napoléon quitte Moscou ; le krach de 1987.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/le-petit-matin/episodes/2026-10-19.mp3" length="3304365" type="audio/mpeg"/>
+   <guid isPermaLink="false">le-petit-matin-2026-10-19</guid>
+   <pubDate>Mon, 19 Oct 2026 05:00:00 +0000</pubDate>
+   <itunes:duration>413</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Dimanche 18 octobre : pré-mortem, Yamagata et huguenots</title>
    <description>Le pré-mortem pour anticiper les échecs, l'automne à Yamagata, le magnet couronne de phénix en Chine, La Rochefoucauld, la révocation de l'édit de Nantes et l'achat de l'Alaska.</description>
