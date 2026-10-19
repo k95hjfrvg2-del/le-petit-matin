@@ -7,16 +7,20 @@ Apple Podcasts **avant 6h00, heure de Londres**.
 
 ## 1. Les sept rubriques (toujours dans cet ordre)
 
-1. **Les quatre infos du jour** (≈200 mots au total, ≈50 mots chacune) : une actualité
-   **France**, une **monde**, une **Asie**, une **États-Unis**, toutes des dernières 24 heures
-   (source datée du jour ou de la veille). Factuel, neutre, sans opinion ; l'essentiel en deux ou
-   trois phrases : quoi, qui, pourquoi ça compte. Éviter les faits divers sordides.
+1. **Les cinq infos du jour** (≈245 mots au total, ≈50 mots chacune, sauf Apple ≈45) : une
+   actualité **France**, une **monde**, une **Asie**, une **États-Unis**, toutes des dernières
+   24 heures (source datée du jour ou de la veille), puis **une actualité Apple** (demandée par
+   l'auditeur) : produit, résultats, Bourse, justice, régulation, dirigeants… de préférence des
+   dernières 24 à 48 heures ; s'il n'y a rien de neuf, la plus récente de la semaine, en le
+   disant (« cette semaine, chez Apple… »). Source fiable et datée (Reuters, Bloomberg, AP, CNBC,
+   The Verge, MacRumors, communiqués d'Apple). Factuel, neutre, sans opinion ; l'essentiel en deux
+   ou trois phrases : quoi, qui, pourquoi ça compte. Éviter les faits divers sordides.
 2. **Le conseil management du jour** (≈130 mots). Un outil concret, applicable aujourd'hui :
    d'où il vient (auteur, entreprise, étude réelle et vérifiée), pourquoi il marche, comment
    le faire en pratique. Public : manager senior en finance. Pas de banalités
    (« écoutez vos équipes ») ; des méthodes précises (pré-mortem, RACI, désaccord et engagement,
    one-on-one, revue après action, délégation par niveaux, feedback SBI, etc.).
-3. **L'idée de voyage** (≈150 mots), surtout en **Asie** (Japon, Corée, Chine, Taïwan, Asie du
+3. **L'idée de voyage** (≈135 mots), surtout en **Asie** (Japon, Corée, Chine, Taïwan, Asie du
    Sud-Est, Inde…) ; environ une fois sur cinq, ailleurs. **Focus sur le lieu lui-même : son
    histoire, sa culture, ses coutumes et habitudes locales** (rituels, étiquette, gestes du
    quotidien, fêtes, spécialités et la façon de les manger, ce que font les habitants). De saison
@@ -33,7 +37,7 @@ Apple Podcasts **avant 6h00, heure de Londres**.
    Saint-Exupéry, le « je ne suis pas d'accord » attribué à Voltaire : à éviter). Préférer des
    auteurs tombés dans le domaine public (morts avant 1956). Une phrase courte, puis une ou deux
    phrases de commentaire avec une pointe d'esprit.
-6. **Un moment de l'histoire de France** (≈150 mots). De préférence un événement survenu **à la
+6. **Un moment de l'histoire de France** (≈135 mots). De préférence un événement survenu **à la
    même date** (« ce jour-là, en… »), sinon un épisode marquant. Faits, chiffres, un détail
    vivant, et si possible un lien avec Londres, la finance ou aujourd'hui.
 7. **Le fait de culture générale** (≈130 mots). Un fait historique important, mondial, de

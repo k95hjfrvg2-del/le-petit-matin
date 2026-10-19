@@ -3,6 +3,8 @@
 # Règle : chaque mot étranger se dit comme dans sa langue d'origine (anglais à l'anglaise, japonais à la japonaise…), jamais « à la française ».
 Good Vibes => Goude Vaillbz
 feedback => fidbak
+Apple => Apeul
+Tim Cook => Timme Couk
 Gary Klein => Garie Klaïne
 William Seward => Ouilliam Siouarde
 Seward => Siouarde
