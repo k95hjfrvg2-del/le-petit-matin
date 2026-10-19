@@ -72,6 +72,10 @@ jamais citer le prénom de l'auditeur ni des détails personnels dans l'épisode
 - Nombres et dates en toutes lettres : « seize cent quatre-vingt-cinq », « soixante-trois pour
   cent », « sept millions deux cent mille dollars ».
 - Sigles épelés ou développés.
+- **Règle de l'auditeur : chaque mot étranger se prononce comme dans sa langue d'origine**
+  (l'anglais à l'anglaise, le japonais à la japonaise, etc.), jamais « à la française ». Cela
+  vaut aussi pour le nom de l'émission : « Good Vibes » se dit en anglais. Les noms qui ont un
+  nom français usuel (Pékin, Londres, Séoul) gardent le nom français.
 - **Noms propres (artistes, personnalités, lieux, mots étrangers) : prononciation exacte.** La
   voix lit le texte « à la française » : un nom anglais, japonais, coréen ou chinois écrit tel
   quel est souvent écorché. Dans le script on garde l'orthographe correcte, et on ajoute dans
