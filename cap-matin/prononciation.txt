@@ -1,0 +1,33 @@
+# Une ligne par nom : Orthographe correcte => graphie phonétique française (lue par la voix Piper)
+# Les lignes qui commencent par # sont ignorées. Les remplacements respectent les majuscules.
+# Règle : chaque mot étranger se dit comme dans sa langue d'origine, jamais « à la française ».
+Audierne => Odierne
+Asnières => Anière
+Asnières-sur-Seine => Anière-sur-Seine
+Plouhinec => Plou-inèk
+Esquibien => Èss-ki-bien
+Plogoff => Plo-gof
+Douarnenez => Douar-nenèss
+Penmarc'h => Penne-mark
+Quimper => Kim-pèr
+Sizun => Si-zun
+Raz => Râ
+Trump => Treumpe
+Donald Trump => Donalde Treumpe
+Péter Magyar => Pétère Modjor
+Magyar => Modjor
+von der Leyen => fone dère Laïenne
+Orbán => Orbane
+Fidesz => Fidèss
+Moody's => Moudize
+Aa3 => A a trois
+Merck => Merk
+Moderna => Modèrna
+Wall Street => Wol Strite
+Richard Whitney => Ritcheurde Ouitnie
+U.S. Steel => You Èss Stile
+an-dro => anne-dro
+festoù-noz => fèstou-noz
+fest-noz => fèsse-noz
+PSG => P S G
+Cap Sizun => Cap Sizune
