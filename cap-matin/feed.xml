@@ -13,15 +13,15 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:owner><itunes:name>Cap Matin</itunes:name><itunes:email>podcast@users.noreply.github.com</itunes:email></itunes:owner>
-  <lastBuildDate>Sat, 24 Oct 2026 11:45:49 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 11:51:52 +0000</lastBuildDate>
   <item>
    <title>Samedi 24 octobre : une heure en cadeau</title>
    <description>Vie chère et Moody's, les 70 ans de Budapest 1956, un vaccin contre le mélanome, la pluie revient en Bretagne, le Jeudi noir de 1929 et Sénèque sur le temps.</description>
    <itunes:summary>Vie chère et Moody's, les 70 ans de Budapest 1956, un vaccin contre le mélanome, la pluie revient en Bretagne, le Jeudi noir de 1929 et Sénèque sur le temps.</itunes:summary>
-   <enclosure url="https://k95hjfrvg2-del.github.io/le-petit-matin/cap-matin/episodes/2026-10-24.mp3" length="2502573" type="audio/mpeg"/>
+   <enclosure url="https://k95hjfrvg2-del.github.io/le-petit-matin/cap-matin/episodes/2026-10-24.mp3" length="2470509" type="audio/mpeg"/>
    <guid isPermaLink="false">cap-matin-2026-10-24</guid>
    <pubDate>Sat, 24 Oct 2026 04:00:00 +0000</pubDate>
-   <itunes:duration>313</itunes:duration>
+   <itunes:duration>309</itunes:duration>
    <itunes:explicit>false</itunes:explicit>
    <itunes:episodeType>full</itunes:episodeType>
   </item>

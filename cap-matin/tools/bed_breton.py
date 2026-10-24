@@ -1,12 +1,13 @@
 """Original Breton-flavoured acoustic intro for Cap Matin: Celtic harp, bombarde (oboe), fiddle,
 tin whistle, nylon guitar, accordion drone and a soft frame drum, played with GeneralUser GS.
 No synths. Usage: python3 bed_breton.py <GeneralUser-GS.sf2> out.wav [seconds]
-Layout at 120 BPM (one bar = 2 s): 0-2 s harp arpeggio, 2-8 s an-dro style tune (bombarde + fiddle),
-resolving on D at 8 s, then a light harp/guitar accompaniment under the voice."""
+Layout at 120 BPM (one bar = 2 s): the an-dro style tune (bombarde + fiddle) starts at 0 s, no
+introductory notes, resolving on D at 6 s, then a light harp/guitar accompaniment under the voice."""
 import sys, wave, numpy as np, tinysoundfont
 
 SF, OUT = sys.argv[1], sys.argv[2]
-DUR = float(sys.argv[3]) if len(sys.argv) > 3 else 34.0
+OUT_DUR = float(sys.argv[3]) if len(sys.argv) > 3 else 34.0
+DUR = OUT_DUR + 2.0   # first bar is silent and gets cut: the music starts straight away
 SR = 44100; B = 0.5; BAR = 4 * B
 syn = tinysoundfont.Synth(samplerate=SR, gain=-3)
 sf = syn.sfload(SF)
@@ -25,9 +26,6 @@ def hit(t, k, v): note(t, DR, k, 0.1, v)
 # D mixolydian feel: D - C - D - Am / G - D
 chords = [([50, 57, 62, 66], 38), ([48, 55, 60, 64], 36), ([50, 57, 62, 66], 38), ([45, 52, 57, 60], 33)]
 nbars = int(DUR / BAR) + 1
-# harp opening arpeggio (0-2 s)
-for i, k in enumerate((50, 57, 62, 66, 69, 74, 78, 81)):
-    note(0.02 + i * 0.2, HARP, k, 1.8, 62 + i * 3)
 for b in range(nbars):
     t0 = b * BAR
     tones, root = chords[b % 4]
@@ -73,7 +71,7 @@ for t, kind, ch, k, vel in ev + [(DUR, -1, 0, 0, 0)]:
         out[pos:i] = np.frombuffer(syn.generate(i - pos), dtype=np.float32).reshape(-1, 2); pos = i
     if kind == 1: syn.noteon(ch, k, vel)
     elif kind == 0: syn.noteoff(ch, k)
-mono = out.mean(axis=1)
+mono = out.mean(axis=1)[int(BAR * SR):]   # drop the empty first bar
 rev = mono.copy()   # small stone-chapel reverb
 for dly, g in ((0.031, 0.25), (0.057, 0.19), (0.097, 0.14), (0.151, 0.09), (0.233, 0.05)):
     d = int(dly * SR); rev[d:] += mono[:-d] * g
