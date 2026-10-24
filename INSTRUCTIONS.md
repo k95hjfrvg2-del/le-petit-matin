@@ -1,7 +1,8 @@
 # Petit Matin Good Vibes — recette de production
 
 Podcast quotidien en français, 7 jours sur 7, pour Nicolas (Londres, cadre senior en finance,
-marié, un fils d'âge scolaire). Durée cible : **6 à 7 minutes** (1 000 à 1 150 mots de script :
+marié, un fils d'âge scolaire). Durée cible : **6 à 7 minutes** (1 000 à 1 150 mots de script, rubrique 0 comprise ; les jours
+où elle est longue, raccourcir un peu les autres rubriques :
 la voix lit environ 165 mots par minute ; jamais plus de 1 200). Épisode publié dans le fil
 Apple Podcasts **avant 6h00, heure de Londres**.
 
@@ -48,6 +49,35 @@ Ouverture (≈30 mots, dite sur la musique) : « Bonjour, et bienvenue dans Peti
 sommes le <jour> <date>. » + une phrase. Clôture : « C’était Petit Matin Good Vibes. Belle journée, et à
 demain. » (on peut varier légèrement).
 
+### Rubrique 0 : anniversaires et fêtes (juste après l'ouverture, avant les infos)
+
+Demandée par l'auditeur. ≈20 à 70 mots selon les jours, toujours présente (au minimum la fête du
+jour). Ton chaleureux, une phrase par élément, sans annonce de rubrique. Lire `anniversaires.json`
+et comparer avec la date du jour (heure de Londres) :
+
+1. **Anniversaires du jour** (liste `anniversaires`) : souhaiter un joyeux anniversaire par le nom
+   indiqué dans `qui` (« Et aujourd'hui, on souhaite un très joyeux anniversaire à Mémé ! »),
+   avec la `note` si elle existe (ex. les cent ans de Pépé : un vrai moment d'émotion, deux ou
+   trois phrases). Le 20 juillet, souhaiter directement son anniversaire à l'auditeur.
+2. **Rappels à l'avance** : deux jours avant chaque anniversaire, un rappel discret (« Petit
+   rappel : après-demain, c'est l'anniversaire d'Arthur. »). Pour une entrée avec
+   `"rappel_long": true`, rappeler aussi sept jours avant. Pour l'anniversaire d'Annabelle et
+   d'Arthur, et pour la fête des mères ou des pères, rappeler aussi la veille (le temps de
+   prévoir un cadeau).
+3. **La fête du jour** : le ou les saints du calendrier français du jour (vérifier sur
+   nominis.cef.fr ou un calendrier des fêtes ; « Aujourd'hui, on souhaite une bonne fête aux
+   Crépin. »). Si un prénom de `prenoms_pour_les_fetes` est fêté ce jour-là (même saint ou forme
+   courante : Nicolas le six décembre, etc.), le dire nommément (« bonne fête à Hubert ! »).
+4. **Fêtes et jours spéciaux** : jours fériés en France et au Royaume-Uni, Noël, Nouvel An,
+   Pâques, Toussaint, Halloween, Saint-Valentin, fête des mères et des pères **en France et au
+   Royaume-Uni (dates différentes)**, Nouvel An chinois et grandes fêtes d'Asie, changement
+   d'heure. Le jour même, et un rappel deux jours avant pour ceux qui demandent de s'organiser
+   (fête des mères ou des pères, Saint-Valentin, Noël, changement d'heure la veille).
+
+Exception à la règle du ton ci-dessous : dans cette rubrique seulement, on cite les prénoms de la
+famille et des proches. Ne jamais dire d'âge ni d'année de naissance, sauf une `note` qui le
+prévoit. Ajouter dans `prononciation.txt` tout prénom mal lu.
+
 ## 2. Ton
 
 Une voix parisienne : vive, complice, élégante, une pointe d'humour, jamais niaise. Vouvoiement.
@@ -55,7 +85,8 @@ Phrases courtes. **Transitions naturelles, jamais d'annonce de rubrique** : ne p
 « prochaine rubrique », « deuxième rubrique », « sixième et dernière rubrique », ni numéroter.
 Enchaîner par le sujet lui-même (« Cap sur Kyoto. », « Côté management, un outil simple : … »,
 « Et ce jour-là, en seize cent quatre-vingt-cinq… »). L'animatrice ne se donne pas de nom. Ne
-jamais citer le prénom de l'auditeur ni des détails personnels dans l'épisode.
+jamais citer le prénom de l'auditeur ni des détails personnels dans l'épisode, sauf dans la
+rubrique 0 (anniversaires et fêtes), qui le permet.
 
 ## 3. Recherche (≈12 minutes, 8 à 15 recherches)
 
