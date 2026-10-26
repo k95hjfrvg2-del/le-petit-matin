@@ -56,14 +56,18 @@ jour). Ton chaleureux, une phrase par élément, sans annonce de rubrique. Lire 
 et comparer avec la date du jour (heure de Londres) :
 
 1. **Anniversaires du jour** (liste `anniversaires`) : souhaiter un joyeux anniversaire par le nom
-   indiqué dans `qui` (« Et aujourd'hui, on souhaite un très joyeux anniversaire à Mémé ! »),
-   avec la `note` si elle existe (ex. les cent ans de Pépé : un vrai moment d'émotion, deux ou
-   trois phrases). Le 20 juillet, souhaiter directement son anniversaire à l'auditeur.
+   indiqué dans `qui` (« Et aujourd'hui, on souhaite un très joyeux anniversaire à Camille ! »),
+   avec la `note` si elle existe. Le 20 juillet, souhaiter directement son anniversaire à l'auditeur.
 2. **Rappels à l'avance** : la veille de chaque anniversaire, un rappel discret (« Petit
-   rappel : demain, c'est l'anniversaire de Mémé. »). Pour une entrée avec
+   rappel : demain, c'est l'anniversaire de Camille. »). Pour une entrée avec
    `"rappel_long": true`, rappeler aussi sept jours avant. Pour l'anniversaire d'Annabelle et
    d'Arthur, et pour la fête des mères ou des pères, rappeler aussi trois jours avant (le temps
    de prévoir un cadeau).
+   **Personnes décédées** (`"decede": true`, ex. Mémé et Pépé) : ne JAMAIS leur souhaiter un joyeux
+   anniversaire, aucun rappel la veille ni à l'avance. Le jour même seulement, rappeler sobrement que
+   c'est leur jour de naissance et l'âge qu'ils auraient eu (année en cours moins `annee_naissance`) :
+   « Aujourd'hui, c'est le jour de naissance de Pépé : il aurait eu cent ans. » Sans âge si l'année
+   est inconnue.
 3. **La fête du jour** : le ou les saints du calendrier français du jour (vérifier sur
    nominis.cef.fr ou un calendrier des fêtes ; « Aujourd'hui, on souhaite une bonne fête aux
    Crépin. »). Si un prénom de `prenoms_pour_les_fetes` est fêté ce jour-là (même saint ou forme
