@@ -8,7 +8,7 @@ Apple Podcasts **avant 6h00, heure de Londres**.
 
 ## 1. Les sept rubriques (toujours dans cet ordre)
 
-1. **Les cinq infos du jour** (≈245 mots au total, ≈50 mots chacune, sauf Apple ≈45) : une
+1. **Les six infos du jour** (≈285 mots au total, ≈50 mots chacune, sauf Apple et concurrents ≈40) : une
    actualité **France**, une **monde**, une **Asie**, une **États-Unis**, toutes des dernières
    24 heures (source datée du jour ou de la veille), puis **une actualité Apple** (demandée par
    l'auditeur) : produit, résultats, Bourse, justice, régulation, dirigeants… de préférence des
@@ -16,6 +16,12 @@ Apple Podcasts **avant 6h00, heure de Londres**.
    disant (« cette semaine, chez Apple… »). Source fiable et datée (Reuters, Bloomberg, AP, CNBC,
    The Verge, MacRumors, communiqués d'Apple). Factuel, neutre, sans opinion ; l'essentiel en deux
    ou trois phrases : quoi, qui, pourquoi ça compte. Éviter les faits divers sordides.
+   Juste après Apple, **une info sur les concurrents d'Apple** (demandée par l'auditeur, ≈40 mots) :
+   lancement de produit, résultats, Bourse ou part de marché chez Samsung, Google, Microsoft, Meta,
+   Amazon, Huawei, Xiaomi, OnePlus, Sony, Nvidia, etc., de préférence des dernières 24 à 48 heures
+   (sinon la plus récente de la semaine, en le disant). Un chiffre si possible, et en une demi-phrase
+   ce que ça change face à Apple. Enchaîner naturellement (« En face, chez Samsung… »). Même
+   exigence de sources (Reuters, Bloomberg, CNBC, The Verge, IDC, Counterpoint, Canalys…).
 2. **Le conseil management du jour** (≈130 mots). Un outil concret, applicable aujourd'hui :
    d'où il vient (auteur, entreprise, étude réelle et vérifiée), pourquoi il marche, comment
    le faire en pratique. Public : manager senior en finance. Pas de banalités
@@ -30,7 +36,7 @@ Apple Podcasts **avant 6h00, heure de Londres**.
    conseillée (« comptez deux jours… »), classements et références à des magazines ou guides
    (National Geographic, Condé Nast, BBC, Lonely Planet, « top 10 »…), « conseil d'amie » et
    conseils pratiques de voyageur. À la place : une coutume ou une habitude locale expliquée.
-4. **L'Asie qui bouge : mode ou anecdote du Japon, de la Corée ou de la Chine** (≈140 mots).
+4. **L'Asie qui bouge : mode ou anecdote du Japon, de la Corée ou de la Chine** (≈125 mots).
    Une tendance ou une histoire **récente** (moins de 2 mois, source datée), avec un chiffre ou un
    détail concret. Alterner les pays d'un jour à l'autre (consulter history.json).
 5. **La citation française** (≈50 mots). Auteur français ou francophone, citation **authentique
@@ -41,7 +47,7 @@ Apple Podcasts **avant 6h00, heure de Londres**.
 6. **Un moment de l'histoire de France** (≈135 mots). De préférence un événement survenu **à la
    même date** (« ce jour-là, en… »), sinon un épisode marquant. Faits, chiffres, un détail
    vivant, et si possible un lien avec Londres, la finance ou aujourd'hui.
-7. **Le fait de culture générale** (≈130 mots). Un fait historique important, mondial, de
+7. **Le fait de culture générale** (≈120 mots). Un fait historique important, mondial, de
    préférence à la même date, avec une anecdote mémorable. Conclure par une chute qui relie, si
    possible, à une autre rubrique du jour.
 
