@@ -13,7 +13,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:owner><itunes:name>Petit Matin Good Vibes</itunes:name><itunes:email>podcast@users.noreply.github.com</itunes:email></itunes:owner>
-  <lastBuildDate>Sat, 31 Oct 2026 05:21:56 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 05:10:12 +0000</lastBuildDate>
+  <item>
+   <title>Dimanche 1er novembre : Toussaint, de Manille à Lisbonne</title>
+   <description>Manifestations en France, Flávio Bolsonaro en Floride, Pyongyang inflexible, mi-mandat américaines, Apple avant ses résultats et Microsoft ; l'échelle d'inférence ; Undas à Manille ; les plaques Pokémon de Gunma ; Lamartine ; la Toussaint rouge de 1954 et le séisme de Lisbonne de 1755.</description>
+   <itunes:summary>Manifestations en France, Flávio Bolsonaro en Floride, Pyongyang inflexible, mi-mandat américaines, Apple avant ses résultats et Microsoft ; l'échelle d'inférence ; Undas à Manille ; les plaques Pokémon de Gunma ; Lamartine ; la Toussaint rouge de 1954 et le séisme de Lisbonne de 1755.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/le-petit-matin/episodes/2026-11-01.mp3" length="3242349" type="audio/mpeg"/>
+   <guid isPermaLink="false">le-petit-matin-2026-11-01</guid>
+   <pubDate>Sun, 01 Nov 2026 05:00:00 +0000</pubDate>
+   <itunes:duration>405</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Samedi 31 octobre : Halloween, thé et Girondins</title>
    <description>Inflation en France, l'Irlande et l'unité, piratage record de Binance, votes anticipés record aux États-Unis, Apple et Samsung ; le nemawashi, le sanctuaire d'Ise, la mode du thé en Corée, Victor Hugo, les Girondins et les thèses de Luther.</description>
