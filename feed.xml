@@ -13,7 +13,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:owner><itunes:name>Petit Matin Good Vibes</itunes:name><itunes:email>podcast@users.noreply.github.com</itunes:email></itunes:owner>
-  <lastBuildDate>Wed, 04 Nov 2026 05:20:59 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 05:36:20 +0000</lastBuildDate>
+  <item>
+   <title>Jeudi 5 novembre : poudre, grève et lumières</title>
+   <description>Grève en France, inflation à quatre pour cent en zone euro, Sénat démocrate, Apple Intelligence en Chine ; le modèle Cynefin, Varanasi et Dev Deepavali, le Pepero Day coréen, Valéry, Rossbach et la Conspiration des poudres.</description>
+   <itunes:summary>Grève en France, inflation à quatre pour cent en zone euro, Sénat démocrate, Apple Intelligence en Chine ; le modèle Cynefin, Varanasi et Dev Deepavali, le Pepero Day coréen, Valéry, Rossbach et la Conspiration des poudres.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/le-petit-matin/episodes/2026-11-05.mp3" length="3121389" type="audio/mpeg"/>
+   <guid isPermaLink="false">le-petit-matin-2026-11-05</guid>
+   <pubDate>Thu, 05 Nov 2026 05:00:00 +0000</pubDate>
+   <itunes:duration>390</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Mercredi 4 novembre : la vague démocrate</title>
    <description>Mi-mandat américains, Livret A, Lufthansa et TAP, Kim Yo-jong, Apple et Samsung ; vérifier ses hypothèses ; Izumo, le mois des dieux ; une capitale de secours au Japon ; Tocqueville ; la Constitution de 1848 ; Toutankhamon.</description>
