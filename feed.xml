@@ -13,7 +13,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:owner><itunes:name>Petit Matin Good Vibes</itunes:name><itunes:email>podcast@users.noreply.github.com</itunes:email></itunes:owner>
-  <lastBuildDate>Thu, 05 Nov 2026 05:36:20 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 04:51:22 +0000</lastBuildDate>
+  <item>
+   <title>Vendredi 6 novembre : la brique et la bougie</title>
+   <description>Bilan de la grève, Netanyahou fragilisé, Joshua Wong condamné, Hegseth menacé, l'emprunt d'Apple et la chute de Nvidia ; le brainwriting 6-3-5, Sukhothai et Loy Krathong, les briques de mousse en Chine, Joubert, Philippe Égalité et l'élection de Lincoln.</description>
+   <itunes:summary>Bilan de la grève, Netanyahou fragilisé, Joshua Wong condamné, Hegseth menacé, l'emprunt d'Apple et la chute de Nvidia ; le brainwriting 6-3-5, Sukhothai et Loy Krathong, les briques de mousse en Chine, Joubert, Philippe Égalité et l'élection de Lincoln.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/le-petit-matin/episodes/2026-11-06.mp3" length="2993133" type="audio/mpeg"/>
+   <guid isPermaLink="false">le-petit-matin-2026-11-06</guid>
+   <pubDate>Fri, 06 Nov 2026 05:00:00 +0000</pubDate>
+   <itunes:duration>374</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Jeudi 5 novembre : poudre, grève et lumières</title>
    <description>Grève en France, inflation à quatre pour cent en zone euro, Sénat démocrate, Apple Intelligence en Chine ; le modèle Cynefin, Varanasi et Dev Deepavali, le Pepero Day coréen, Valéry, Rossbach et la Conspiration des poudres.</description>
