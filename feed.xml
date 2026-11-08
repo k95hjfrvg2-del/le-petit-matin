@@ -13,7 +13,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:owner><itunes:name>Petit Matin Good Vibes</itunes:name><itunes:email>podcast@users.noreply.github.com</itunes:email></itunes:owner>
-  <lastBuildDate>Sat, 07 Nov 2026 05:13:13 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 05:15:56 +0000</lastBuildDate>
+  <item>
+   <title>Dimanche 8 novembre : rayons X et montgolfières</title>
+   <description>Remembrance Sunday et la Saint-Geoffroy ; manifestations contre la vie chère, Léon XIV en Uruguay, première neige à Séoul, Stephen Miller à la Maison-Blanche, pénurie d'iPhone Duo, lunettes Android XR ; matrice d'Eisenhower ; Taunggyi et ses montgolfières ; la mode du « text hip » en Corée ; Saint-Exupéry ; l'opération Torch ; Röntgen et les rayons X.</description>
+   <itunes:summary>Remembrance Sunday et la Saint-Geoffroy ; manifestations contre la vie chère, Léon XIV en Uruguay, première neige à Séoul, Stephen Miller à la Maison-Blanche, pénurie d'iPhone Duo, lunettes Android XR ; matrice d'Eisenhower ; Taunggyi et ses montgolfières ; la mode du « text hip » en Corée ; Saint-Exupéry ; l'opération Torch ; Röntgen et les rayons X.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/le-petit-matin/episodes/2026-11-08.mp3" length="3026349" type="audio/mpeg"/>
+   <guid isPermaLink="false">le-petit-matin-2026-11-08</guid>
+   <pubDate>Sun, 08 Nov 2026 05:00:00 +0000</pubDate>
+   <itunes:duration>378</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Samedi 7 novembre : masques d'Andong et île des Faisans</title>
    <description>Crues en Corse, démission au Paraguay, Bourses asiatiques, emploi américain, nouveaux iPad et Mac, rafale de questions, Andong, arcades japonaises en panne, Camus, traité des Pyrénées et révolution d'Octobre.</description>
