@@ -13,7 +13,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:owner><itunes:name>Petit Matin Good Vibes</itunes:name><itunes:email>podcast@users.noreply.github.com</itunes:email></itunes:owner>
-  <lastBuildDate>Tue, 10 Nov 2026 05:37:43 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 04:55:25 +0000</lastBuildDate>
+  <item>
+   <title>Mercredi 11 novembre : Armistice, Malacca et Mayflower</title>
+   <description>Cyberattaques iraniennes contre des supermarchés, les pourparlers d'Abu Dhabi, le vice-président indonésien démissionnaire, Hegseth et la Chambre, la panne iCloud et le Pixel Drop ; le vrai avocat du diable, Malacca en Malaisie, la Recoverynomics coréenne, Stendhal, l'armistice de 1918 et le pacte du Mayflower.</description>
+   <itunes:summary>Cyberattaques iraniennes contre des supermarchés, les pourparlers d'Abu Dhabi, le vice-président indonésien démissionnaire, Hegseth et la Chambre, la panne iCloud et le Pixel Drop ; le vrai avocat du diable, Malacca en Malaisie, la Recoverynomics coréenne, Stendhal, l'armistice de 1918 et le pacte du Mayflower.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/le-petit-matin/episodes/2026-11-11.mp3" length="3004269" type="audio/mpeg"/>
+   <guid isPermaLink="false">le-petit-matin-2026-11-11</guid>
+   <pubDate>Wed, 11 Nov 2026 05:00:00 +0000</pubDate>
+   <itunes:duration>376</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Mardi 10 novembre : Smic, Hué et Livingstone</title>
    <description>Le Smic et la CGT, les pourparlers d'Abu Dhabi, la consommation japonaise, Trump et l'immigration, Apple HomeView et Meta ; un protocole de décision de Kahneman, Hué au Vietnam, le milliard de Lemon, Descartes, la mort du général de Gaulle et la rencontre Stanley–Livingstone.</description>
