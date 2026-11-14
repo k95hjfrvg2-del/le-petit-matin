@@ -13,7 +13,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:owner><itunes:name>Petit Matin Good Vibes</itunes:name><itunes:email>podcast@users.noreply.github.com</itunes:email></itunes:owner>
-  <lastBuildDate>Fri, 13 Nov 2026 05:12:04 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 05:04:00 +0000</lastBuildDate>
+  <item>
+   <title>Samedi 14 novembre : Monet, Miyajima et Nellie Bly</title>
+   <description>Chômage en France, Européens aux négociations sur l'Ukraine, Takaichi en Chine, ciel américain paralysé, le roi Charles sur Apple Music et la panne Microsoft ; l'enquête humble d'Edgar Schein, l'île sacrée de Miyajima, l'homme aux écharpes de Séoul, Musset, la naissance de Monet et le tour du monde de Nellie Bly.</description>
+   <itunes:summary>Chômage en France, Européens aux négociations sur l'Ukraine, Takaichi en Chine, ciel américain paralysé, le roi Charles sur Apple Music et la panne Microsoft ; l'enquête humble d'Edgar Schein, l'île sacrée de Miyajima, l'homme aux écharpes de Séoul, Musset, la naissance de Monet et le tour du monde de Nellie Bly.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/le-petit-matin/episodes/2026-11-14.mp3" length="3071469" type="audio/mpeg"/>
+   <guid isPermaLink="false">le-petit-matin-2026-11-14</guid>
+   <pubDate>Sat, 14 Nov 2026 05:00:00 +0000</pubDate>
+   <itunes:duration>384</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Vendredi 13 novembre : hélicoptère, Fantasia et Jeju</title>
    <description>Relance agricole, Ormuz, Indonésie, Trump et l'Iran, sorties Apple, départ de Jensen Huang chez Nvidia ; le feedforward de Marshall Goldsmith ; les coutumes de Jeju ; une école chinoise pour les écritures oubliées ; Rabelais ; le vol de Paul Cornu en 1907 ; la première de Fantasia.</description>
