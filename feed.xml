@@ -13,7 +13,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:owner><itunes:name>Petit Matin Good Vibes</itunes:name><itunes:email>podcast@users.noreply.github.com</itunes:email></itunes:owner>
-  <lastBuildDate>Sat, 14 Nov 2026 05:04:00 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 04:53:40 +0000</lastBuildDate>
+  <item>
+   <title>Dimanche 15 novembre : du pain pour tous</title>
+   <description>Manifestations en France, pacte Turquie–Qatar, défense japonaise, sommet Trump–Xi–Poutine, Siri sur l'Apple TV, Nvidia ; le journal de décision, le Bhoutan, les mots de l'année au Japon, Brillat-Savarin, le pain de l'Égalité et le premier microprocesseur.</description>
+   <itunes:summary>Manifestations en France, pacte Turquie–Qatar, défense japonaise, sommet Trump–Xi–Poutine, Siri sur l'Apple TV, Nvidia ; le journal de décision, le Bhoutan, les mots de l'année au Japon, Brillat-Savarin, le pain de l'Égalité et le premier microprocesseur.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/le-petit-matin/episodes/2026-11-15.mp3" length="3071469" type="audio/mpeg"/>
+   <guid isPermaLink="false">le-petit-matin-2026-11-15</guid>
+   <pubDate>Sun, 15 Nov 2026 05:00:00 +0000</pubDate>
+   <itunes:duration>384</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Samedi 14 novembre : Monet, Miyajima et Nellie Bly</title>
    <description>Chômage en France, Européens aux négociations sur l'Ukraine, Takaichi en Chine, ciel américain paralysé, le roi Charles sur Apple Music et la panne Microsoft ; l'enquête humble d'Edgar Schein, l'île sacrée de Miyajima, l'homme aux écharpes de Séoul, Musset, la naissance de Monet et le tour du monde de Nellie Bly.</description>
