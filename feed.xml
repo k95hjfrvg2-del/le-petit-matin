@@ -13,7 +13,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:owner><itunes:name>Petit Matin Good Vibes</itunes:name><itunes:email>podcast@users.noreply.github.com</itunes:email></itunes:owner>
-  <lastBuildDate>Sun, 15 Nov 2026 04:53:40 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 05:09:35 +0000</lastBuildDate>
+  <item>
+   <title>Lundi 16 novembre : la brique et le sultan</title>
+   <description>Le coût record des dégradations en France, Prague dans la rue, un tricheur à l'IA en Corée, Starship rattrapé au vol, les lunettes d'Apple et l'amende de Meta ; l'emploi du temps du créateur selon Paul Graham, Yogyakarta, les briques moussues de Chine, Flaubert, Philippe V roi d'Espagne et la naissance de l'Unesco à Londres.</description>
+   <itunes:summary>Le coût record des dégradations en France, Prague dans la rue, un tricheur à l'IA en Corée, Starship rattrapé au vol, les lunettes d'Apple et l'amende de Meta ; l'emploi du temps du créateur selon Paul Graham, Yogyakarta, les briques moussues de Chine, Flaubert, Philippe V roi d'Espagne et la naissance de l'Unesco à Londres.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/le-petit-matin/episodes/2026-11-16.mp3" length="3445869" type="audio/mpeg"/>
+   <guid isPermaLink="false">le-petit-matin-2026-11-16</guid>
+   <pubDate>Mon, 16 Nov 2026 05:00:00 +0000</pubDate>
+   <itunes:duration>431</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Dimanche 15 novembre : du pain pour tous</title>
    <description>Manifestations en France, pacte Turquie–Qatar, défense japonaise, sommet Trump–Xi–Poutine, Siri sur l'Apple TV, Nvidia ; le journal de décision, le Bhoutan, les mots de l'année au Japon, Brillat-Savarin, le pain de l'Égalité et le premier microprocesseur.</description>
