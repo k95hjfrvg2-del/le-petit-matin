@@ -13,7 +13,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:owner><itunes:name>Petit Matin Good Vibes</itunes:name><itunes:email>podcast@users.noreply.github.com</itunes:email></itunes:owner>
-  <lastBuildDate>Mon, 16 Nov 2026 05:09:35 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 04:58:24 +0000</lastBuildDate>
+  <item>
+   <title>Mardi 17 novembre : deux Élisabeth et une grève</title>
+   <description>Grève pour les salaires en France, l'Estonie ferme sa frontière, sommet de l'ASEAN à Manille, rencontre Trump-Xi-Poutine, Apple News+ au Royaume-Uni et Gemini sur CarPlay ; le un-deux-quatre-tous, Suzhou et son crabe chevelu, les Coréens qui s'allongent ensemble, Baudelaire, Arcole et l'avènement d'Élisabeth Ire.</description>
+   <itunes:summary>Grève pour les salaires en France, l'Estonie ferme sa frontière, sommet de l'ASEAN à Manille, rencontre Trump-Xi-Poutine, Apple News+ au Royaume-Uni et Gemini sur CarPlay ; le un-deux-quatre-tous, Suzhou et son crabe chevelu, les Coréens qui s'allongent ensemble, Baudelaire, Arcole et l'avènement d'Élisabeth Ire.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/le-petit-matin/episodes/2026-11-17.mp3" length="3258285" type="audio/mpeg"/>
+   <guid isPermaLink="false">le-petit-matin-2026-11-17</guid>
+   <pubDate>Tue, 17 Nov 2026 05:00:00 +0000</pubDate>
+   <itunes:duration>407</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Lundi 16 novembre : la brique et le sultan</title>
    <description>Le coût record des dégradations en France, Prague dans la rue, un tricheur à l'IA en Corée, Starship rattrapé au vol, les lunettes d'Apple et l'amende de Meta ; l'emploi du temps du créateur selon Paul Graham, Yogyakarta, les briques moussues de Chine, Flaubert, Philippe V roi d'Espagne et la naissance de l'Unesco à Londres.</description>
@@ -330,17 +341,6 @@
    <guid isPermaLink="false">le-petit-matin-2026-10-19</guid>
    <pubDate>Mon, 19 Oct 2026 05:00:00 +0000</pubDate>
    <itunes:duration>411</itunes:duration>
-   <itunes:explicit>false</itunes:explicit>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title>Dimanche 18 octobre : pré-mortem, Yamagata et huguenots</title>
-   <description>Le pré-mortem pour anticiper les échecs, l'automne à Yamagata, le magnet couronne de phénix en Chine, La Rochefoucauld, la révocation de l'édit de Nantes et l'achat de l'Alaska.</description>
-   <itunes:summary>Le pré-mortem pour anticiper les échecs, l'automne à Yamagata, le magnet couronne de phénix en Chine, La Rochefoucauld, la révocation de l'édit de Nantes et l'achat de l'Alaska.</itunes:summary>
-   <enclosure url="https://k95hjfrvg2-del.github.io/le-petit-matin/episodes/2026-10-18.mp3" length="2880813" type="audio/mpeg"/>
-   <guid isPermaLink="false">le-petit-matin-2026-10-18</guid>
-   <pubDate>Sun, 18 Oct 2026 05:00:00 +0000</pubDate>
-   <itunes:duration>360</itunes:duration>
    <itunes:explicit>false</itunes:explicit>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
