@@ -13,7 +13,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:owner><itunes:name>Petit Matin Good Vibes</itunes:name><itunes:email>podcast@users.noreply.github.com</itunes:email></itunes:owner>
-  <lastBuildDate>Tue, 17 Nov 2026 04:58:24 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 05:09:26 +0000</lastBuildDate>
+  <item>
+   <title>Mercredi 18 novembre : le jour des deux midis</title>
+   <description>Pont de Crimée, Shenzhen, la Californie contre OpenAI, la panne d'Apple, la sécurité psychologique, Bhaktapur au Népal, le Beaujolais nouveau au Japon, Corneille, Unam Sanctam et le jour des deux midis.</description>
+   <itunes:summary>Pont de Crimée, Shenzhen, la Californie contre OpenAI, la panne d'Apple, la sécurité psychologique, Bhaktapur au Népal, le Beaujolais nouveau au Japon, Corneille, Unam Sanctam et le jour des deux midis.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/le-petit-matin/episodes/2026-11-18.mp3" length="3183981" type="audio/mpeg"/>
+   <guid isPermaLink="false">le-petit-matin-2026-11-18</guid>
+   <pubDate>Wed, 18 Nov 2026 05:00:00 +0000</pubDate>
+   <itunes:duration>398</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Mardi 17 novembre : deux Élisabeth et une grève</title>
    <description>Grève pour les salaires en France, l'Estonie ferme sa frontière, sommet de l'ASEAN à Manille, rencontre Trump-Xi-Poutine, Apple News+ au Royaume-Uni et Gemini sur CarPlay ; le un-deux-quatre-tous, Suzhou et son crabe chevelu, les Coréens qui s'allongent ensemble, Baudelaire, Arcole et l'avènement d'Élisabeth Ire.</description>
@@ -330,17 +341,6 @@
    <guid isPermaLink="false">le-petit-matin-2026-10-20</guid>
    <pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
    <itunes:duration>387</itunes:duration>
-   <itunes:explicit>false</itunes:explicit>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title>Lundi 19 octobre : du Kremlin au lundi noir</title>
-   <description>France en colère, Ormuz, Jeux paralympiques asiatiques, sanctions russes suspendues ; feedback SBI ; fête des époques à Kyoto ; Pompompurin a trente ans ; Pascal ; Napoléon quitte Moscou ; le krach de 1987.</description>
-   <itunes:summary>France en colère, Ormuz, Jeux paralympiques asiatiques, sanctions russes suspendues ; feedback SBI ; fête des époques à Kyoto ; Pompompurin a trente ans ; Pascal ; Napoléon quitte Moscou ; le krach de 1987.</itunes:summary>
-   <enclosure url="https://k95hjfrvg2-del.github.io/le-petit-matin/episodes/2026-10-19.mp3" length="3284589" type="audio/mpeg"/>
-   <guid isPermaLink="false">le-petit-matin-2026-10-19</guid>
-   <pubDate>Mon, 19 Oct 2026 05:00:00 +0000</pubDate>
-   <itunes:duration>411</itunes:duration>
    <itunes:explicit>false</itunes:explicit>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
