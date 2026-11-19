@@ -13,7 +13,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:owner><itunes:name>Petit Matin Good Vibes</itunes:name><itunes:email>podcast@users.noreply.github.com</itunes:email></itunes:owner>
-  <lastBuildDate>Wed, 18 Nov 2026 05:09:26 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 04:49:31 +0000</lastBuildDate>
+  <item>
+   <title>Jeudi 19 novembre : le masque et les deux minutes</title>
+   <description>Sommet Trump–Xi–Poutine à Shenzhen, la check-list d'Atul Gawande, les coutumes de Samarcande, le « vivre simplement » chinois, Pascal, l'homme au masque de fer et le discours de Gettysburg.</description>
+   <itunes:summary>Sommet Trump–Xi–Poutine à Shenzhen, la check-list d'Atul Gawande, les coutumes de Samarcande, le « vivre simplement » chinois, Pascal, l'homme au masque de fer et le discours de Gettysburg.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/le-petit-matin/episodes/2026-11-19.mp3" length="3012525" type="audio/mpeg"/>
+   <guid isPermaLink="false">le-petit-matin-2026-11-19</guid>
+   <pubDate>Thu, 19 Nov 2026 05:00:00 +0000</pubDate>
+   <itunes:duration>377</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Mercredi 18 novembre : le jour des deux midis</title>
    <description>Pont de Crimée, Shenzhen, la Californie contre OpenAI, la panne d'Apple, la sécurité psychologique, Bhaktapur au Népal, le Beaujolais nouveau au Japon, Corneille, Unam Sanctam et le jour des deux midis.</description>
@@ -330,17 +341,6 @@
    <guid isPermaLink="false">le-petit-matin-2026-10-21</guid>
    <pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
    <itunes:duration>390</itunes:duration>
-   <itunes:explicit>false</itunes:explicit>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title>Mardi 20 octobre : des voiles et des rois</title>
-   <description>Couvre-feux en France, Brésil, croissance chinoise, vote anticipé américain et événement Apple ; disagree and commit ; Gyeongju et le royaume de Silla ; la folie du mochi à Séoul ; Montaigne ; Navarin ; l'Opéra de Sydney.</description>
-   <itunes:summary>Couvre-feux en France, Brésil, croissance chinoise, vote anticipé américain et événement Apple ; disagree and commit ; Gyeongju et le royaume de Silla ; la folie du mochi à Séoul ; Montaigne ; Navarin ; l'Opéra de Sydney.</itunes:summary>
-   <enclosure url="https://k95hjfrvg2-del.github.io/le-petit-matin/episodes/2026-10-20.mp3" length="3100077" type="audio/mpeg"/>
-   <guid isPermaLink="false">le-petit-matin-2026-10-20</guid>
-   <pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
-   <itunes:duration>387</itunes:duration>
    <itunes:explicit>false</itunes:explicit>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
