@@ -13,7 +13,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:owner><itunes:name>Petit Matin Good Vibes</itunes:name><itunes:email>podcast@users.noreply.github.com</itunes:email></itunes:owner>
-  <lastBuildDate>Sat, 21 Nov 2026 05:03:36 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 05:09:54 +0000</lastBuildDate>
+  <item>
+   <title>Dimanche 22 novembre : Pushkar, Boléro et Bonne-Espérance</title>
+   <description>Sainte Cécile, Wall Street dans le rouge, accord UE–Indonésie, Huawei OSTA, la prévision par classe de référence, le lac sacré de Pushkar, une librairie chinoise, Anatole France, le Boléro de Ravel et Vasco de Gama.</description>
+   <itunes:summary>Sainte Cécile, Wall Street dans le rouge, accord UE–Indonésie, Huawei OSTA, la prévision par classe de référence, le lac sacré de Pushkar, une librairie chinoise, Anatole France, le Boléro de Ravel et Vasco de Gama.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/le-petit-matin/episodes/2026-11-22.mp3" length="3091245" type="audio/mpeg"/>
+   <guid isPermaLink="false">le-petit-matin-2026-11-22</guid>
+   <pubDate>Sun, 22 Nov 2026 05:00:00 +0000</pubDate>
+   <itunes:duration>386</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Samedi 21 novembre : ballons, phonographe et kopi</title>
    <description>Airbnb et les corvées, jeunesse UE–Royaume-Uni, inflation japonaise, Iran au Sénat, l'iPhone à 57 % aux États-Unis, le Pixel 11 ; le « j'ai l'intention de » de David Marquet ; les hawker centres de Singapour ; les culturistes de Fukuoka ; La Rochefoucauld ; la première montgolfière habitée ; le phonographe d'Edison.</description>
@@ -330,17 +341,6 @@
    <guid isPermaLink="false">le-petit-matin-2026-10-24</guid>
    <pubDate>Sat, 24 Oct 2026 05:00:00 +0000</pubDate>
    <itunes:duration>409</itunes:duration>
-   <itunes:explicit>false</itunes:explicit>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title>Vendredi 23 octobre : l'iPod, Malet et Tainan</title>
-   <description>Manifestations encadrées en France, tensions dans le Golfe, Indonésie, amende record pour Meta, iPhone Duo ; délégation en sept niveaux ; Tainan et ses blocs divinatoires ; le Hyunbaek core coréen ; La Fontaine ; la conspiration Malet ; la naissance de l'iPod.</description>
-   <itunes:summary>Manifestations encadrées en France, tensions dans le Golfe, Indonésie, amende record pour Meta, iPhone Duo ; délégation en sept niveaux ; Tainan et ses blocs divinatoires ; le Hyunbaek core coréen ; La Fontaine ; la conspiration Malet ; la naissance de l'iPod.</itunes:summary>
-   <enclosure url="https://k95hjfrvg2-del.github.io/le-petit-matin/episodes/2026-10-23.mp3" length="3172269" type="audio/mpeg"/>
-   <guid isPermaLink="false">le-petit-matin-2026-10-23</guid>
-   <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-   <itunes:duration>397</itunes:duration>
    <itunes:explicit>false</itunes:explicit>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
