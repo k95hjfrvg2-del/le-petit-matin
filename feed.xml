@@ -13,7 +13,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:owner><itunes:name>Petit Matin Good Vibes</itunes:name><itunes:email>podcast@users.noreply.github.com</itunes:email></itunes:owner>
-  <lastBuildDate>Sun, 22 Nov 2026 05:09:54 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 04:57:32 +0000</lastBuildDate>
+  <item>
+   <title>Lundi 23 novembre : pirogues, Strasbourg et Doctor Who</title>
+   <description>Règle d'or, COP31, Corée, Chambre américaine, Apple et Samsung ; la liste des choses à arrêter ; Bon Om Touk à Phnom Penh ; le tee-shirt ROKA ; Racine ; la libération de Strasbourg ; Doctor Who.</description>
+   <itunes:summary>Règle d'or, COP31, Corée, Chambre américaine, Apple et Samsung ; la liste des choses à arrêter ; Bon Om Touk à Phnom Penh ; le tee-shirt ROKA ; Racine ; la libération de Strasbourg ; Doctor Who.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/le-petit-matin/episodes/2026-11-23.mp3" length="3025965" type="audio/mpeg"/>
+   <guid isPermaLink="false">le-petit-matin-2026-11-23</guid>
+   <pubDate>Mon, 23 Nov 2026 05:00:00 +0000</pubDate>
+   <itunes:duration>378</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Dimanche 22 novembre : Pushkar, Boléro et Bonne-Espérance</title>
    <description>Sainte Cécile, Wall Street dans le rouge, accord UE–Indonésie, Huawei OSTA, la prévision par classe de référence, le lac sacré de Pushkar, une librairie chinoise, Anatole France, le Boléro de Ravel et Vasco de Gama.</description>
@@ -330,17 +341,6 @@
    <guid isPermaLink="false">le-petit-matin-2026-10-25</guid>
    <pubDate>Sun, 25 Oct 2026 05:00:00 +0000</pubDate>
    <itunes:duration>369</itunes:duration>
-   <itunes:explicit>false</itunes:explicit>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title>Samedi 24 octobre : Westphalie, cerfs et méga-spas</title>
-   <description>Manifestations en France, Serbie, typhon à Taïwan, faux sondages américains, Crackgate chez Apple ; les cinq pourquoi de Toyota ; Nara et ses cerfs ; les méga-spas chinois ; Vauvenargues ; les traités de Westphalie ; la naissance de l'ONU.</description>
-   <itunes:summary>Manifestations en France, Serbie, typhon à Taïwan, faux sondages américains, Crackgate chez Apple ; les cinq pourquoi de Toyota ; Nara et ses cerfs ; les méga-spas chinois ; Vauvenargues ; les traités de Westphalie ; la naissance de l'ONU.</itunes:summary>
-   <enclosure url="https://k95hjfrvg2-del.github.io/le-petit-matin/episodes/2026-10-24.mp3" length="3273837" type="audio/mpeg"/>
-   <guid isPermaLink="false">le-petit-matin-2026-10-24</guid>
-   <pubDate>Sat, 24 Oct 2026 05:00:00 +0000</pubDate>
-   <itunes:duration>409</itunes:duration>
    <itunes:explicit>false</itunes:explicit>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
