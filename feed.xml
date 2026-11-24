@@ -13,7 +13,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:owner><itunes:name>Petit Matin Good Vibes</itunes:name><itunes:email>podcast@users.noreply.github.com</itunes:email></itunes:owner>
-  <lastBuildDate>Mon, 23 Nov 2026 04:57:32 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 05:06:56 +0000</lastBuildDate>
+  <item>
+   <title>Mardi 24 novembre : Delphi, Lijiang et Darwin</title>
+   <description>Les six infos du jour (voitures chinoises en France, frappes ukrainiennes lointaines, une femme à la tête du renseignement sud-coréen, retour de Jensen Huang chez Nvidia, les Apple de début 2027, la marque OSTA de Huawei), la méthode Delphi, Lijiang et les Naxi, le sushi selon les Japonais, Dumas, le calendrier républicain et L'Origine des espèces.</description>
+   <itunes:summary>Les six infos du jour (voitures chinoises en France, frappes ukrainiennes lointaines, une femme à la tête du renseignement sud-coréen, retour de Jensen Huang chez Nvidia, les Apple de début 2027, la marque OSTA de Huawei), la méthode Delphi, Lijiang et les Naxi, le sushi selon les Japonais, Dumas, le calendrier républicain et L'Origine des espèces.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/le-petit-matin/episodes/2026-11-24.mp3" length="3014829" type="audio/mpeg"/>
+   <guid isPermaLink="false">le-petit-matin-2026-11-24</guid>
+   <pubDate>Tue, 24 Nov 2026 05:00:00 +0000</pubDate>
+   <itunes:duration>377</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Lundi 23 novembre : pirogues, Strasbourg et Doctor Who</title>
    <description>Règle d'or, COP31, Corée, Chambre américaine, Apple et Samsung ; la liste des choses à arrêter ; Bon Om Touk à Phnom Penh ; le tee-shirt ROKA ; Racine ; la libération de Strasbourg ; Doctor Who.</description>
@@ -330,17 +341,6 @@
    <guid isPermaLink="false">le-petit-matin-2026-10-26</guid>
    <pubDate>Mon, 26 Oct 2026 05:00:00 +0000</pubDate>
    <itunes:duration>371</itunes:duration>
-   <itunes:explicit>false</itunes:explicit>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title>Dimanche 25 octobre : Azincourt et heure d'hiver</title>
-   <description>Heure d'hiver et Saint-Crépin ; manifestations en France, Serbie aux urnes, Kim en Chine, usine Audi en Géorgie, iPhone Duo ; l'intention du chef ; le yum cha de Canton ; Halloween sous contrôle à Shibuya ; Beaumarchais ; Azincourt ; la charge de la brigade légère.</description>
-   <itunes:summary>Heure d'hiver et Saint-Crépin ; manifestations en France, Serbie aux urnes, Kim en Chine, usine Audi en Géorgie, iPhone Duo ; l'intention du chef ; le yum cha de Canton ; Halloween sous contrôle à Shibuya ; Beaumarchais ; Azincourt ; la charge de la brigade légère.</itunes:summary>
-   <enclosure url="https://k95hjfrvg2-del.github.io/le-petit-matin/episodes/2026-10-25.mp3" length="2954541" type="audio/mpeg"/>
-   <guid isPermaLink="false">le-petit-matin-2026-10-25</guid>
-   <pubDate>Sun, 25 Oct 2026 05:00:00 +0000</pubDate>
-   <itunes:duration>369</itunes:duration>
    <itunes:explicit>false</itunes:explicit>
    <itunes:episodeType>full</itunes:episodeType>
   </item>

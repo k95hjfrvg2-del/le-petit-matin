@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-11-24",
+  "title": "Mardi 24 novembre : Delphi, Lijiang et Darwin",
+  "summary": "Les six infos du jour (voitures chinoises en France, frappes ukrainiennes lointaines, une femme à la tête du renseignement sud-coréen, retour de Jensen Huang chez Nvidia, les Apple de début 2027, la marque OSTA de Huawei), la méthode Delphi, Lijiang et les Naxi, le sushi selon les Japonais, Dumas, le calendrier républicain et L'Origine des espèces.",
+  "bytes": 3014829,
+  "duration": 377
+ },
+ {
   "date": "2026-11-23",
   "title": "Lundi 23 novembre : pirogues, Strasbourg et Doctor Who",
   "summary": "Règle d'or, COP31, Corée, Chambre américaine, Apple et Samsung ; la liste des choses à arrêter ; Bon Om Touk à Phnom Penh ; le tee-shirt ROKA ; Racine ; la libération de Strasbourg ; Doctor Who.",
@@ -201,12 +208,5 @@
   "summary": "Anniversaire de Mémé et Saint-Dimitri ; mobilisation en France, défaite de Vučić en Serbie, collision aux Philippines, dernière semaine de campagne de Trump, MacBook Pro tactile ; le one-on-one d'Andy Grove ; la fête des morts à Oaxaca ; les jeunes Coréens et la Bourse ; Boileau ; la place de la Concorde ; la naissance de la Football Association.",
   "bytes": 2969709,
   "duration": 371
- },
- {
-  "date": "2026-10-25",
-  "title": "Dimanche 25 octobre : Azincourt et heure d'hiver",
-  "summary": "Heure d'hiver et Saint-Crépin ; manifestations en France, Serbie aux urnes, Kim en Chine, usine Audi en Géorgie, iPhone Duo ; l'intention du chef ; le yum cha de Canton ; Halloween sous contrôle à Shibuya ; Beaumarchais ; Azincourt ; la charge de la brigade légère.",
-  "bytes": 2954541,
-  "duration": 369
  }
 ]
