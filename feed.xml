@@ -13,7 +13,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:owner><itunes:name>Petit Matin Good Vibes</itunes:name><itunes:email>podcast@users.noreply.github.com</itunes:email></itunes:owner>
-  <lastBuildDate>Tue, 24 Nov 2026 05:06:56 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 05:00:35 +0000</lastBuildDate>
+  <item>
+   <title>Mercredi 25 novembre : Sainte-Catherine et Souricière</title>
+   <description>Sainte-Catherine, Sénat et retraites, Birmanie, Taïwan, Iowa, Apple et RED, Xiaomi, les six chapeaux de De Bono, le kimjang à Séoul, les tenues jetables en Chine, Courteline, la Blanche-Nef et La Souricière d'Agatha Christie.</description>
+   <itunes:summary>Sainte-Catherine, Sénat et retraites, Birmanie, Taïwan, Iowa, Apple et RED, Xiaomi, les six chapeaux de De Bono, le kimjang à Séoul, les tenues jetables en Chine, Courteline, la Blanche-Nef et La Souricière d'Agatha Christie.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/le-petit-matin/episodes/2026-11-25.mp3" length="3076845" type="audio/mpeg"/>
+   <guid isPermaLink="false">le-petit-matin-2026-11-25</guid>
+   <pubDate>Wed, 25 Nov 2026 05:00:00 +0000</pubDate>
+   <itunes:duration>385</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Mardi 24 novembre : Delphi, Lijiang et Darwin</title>
    <description>Les six infos du jour (voitures chinoises en France, frappes ukrainiennes lointaines, une femme à la tête du renseignement sud-coréen, retour de Jensen Huang chez Nvidia, les Apple de début 2027, la marque OSTA de Huawei), la méthode Delphi, Lijiang et les Naxi, le sushi selon les Japonais, Dumas, le calendrier républicain et L'Origine des espèces.</description>
@@ -330,17 +341,6 @@
    <guid isPermaLink="false">le-petit-matin-2026-10-27</guid>
    <pubDate>Tue, 27 Oct 2026 05:00:00 +0000</pubDate>
    <itunes:duration>332</itunes:duration>
-   <itunes:explicit>false</itunes:explicit>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title>Lundi 26 octobre : Concorde, Oaxaca et football</title>
-   <description>Anniversaire de Mémé et Saint-Dimitri ; mobilisation en France, défaite de Vučić en Serbie, collision aux Philippines, dernière semaine de campagne de Trump, MacBook Pro tactile ; le one-on-one d'Andy Grove ; la fête des morts à Oaxaca ; les jeunes Coréens et la Bourse ; Boileau ; la place de la Concorde ; la naissance de la Football Association.</description>
-   <itunes:summary>Anniversaire de Mémé et Saint-Dimitri ; mobilisation en France, défaite de Vučić en Serbie, collision aux Philippines, dernière semaine de campagne de Trump, MacBook Pro tactile ; le one-on-one d'Andy Grove ; la fête des morts à Oaxaca ; les jeunes Coréens et la Bourse ; Boileau ; la place de la Concorde ; la naissance de la Football Association.</itunes:summary>
-   <enclosure url="https://k95hjfrvg2-del.github.io/le-petit-matin/episodes/2026-10-26.mp3" length="2969709" type="audio/mpeg"/>
-   <guid isPermaLink="false">le-petit-matin-2026-10-26</guid>
-   <pubDate>Mon, 26 Oct 2026 05:00:00 +0000</pubDate>
-   <itunes:duration>371</itunes:duration>
    <itunes:explicit>false</itunes:explicit>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
