@@ -13,7 +13,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:owner><itunes:name>Petit Matin Good Vibes</itunes:name><itunes:email>podcast@users.noreply.github.com</itunes:email></itunes:owner>
-  <lastBuildDate>Wed, 25 Nov 2026 05:00:35 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 05:08:15 +0000</lastBuildDate>
+  <item>
+   <title>Jeudi 26 novembre : la Bérézina et Alice</title>
+   <description>Déficit français, mines à Ormuz, hausse des taux en Corée, Alaska, Apple contre Epic et Huawei condamné ; le Lean Coffee, Pingyao, le Dr Pepper au Japon, Alphonse Karr, la Bérézina et Alice au pays des merveilles.</description>
+   <itunes:summary>Déficit français, mines à Ormuz, hausse des taux en Corée, Alaska, Apple contre Epic et Huawei condamné ; le Lean Coffee, Pingyao, le Dr Pepper au Japon, Alphonse Karr, la Bérézina et Alice au pays des merveilles.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/le-petit-matin/episodes/2026-11-26.mp3" length="3064749" type="audio/mpeg"/>
+   <guid isPermaLink="false">le-petit-matin-2026-11-26</guid>
+   <pubDate>Thu, 26 Nov 2026 05:00:00 +0000</pubDate>
+   <itunes:duration>383</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Mercredi 25 novembre : Sainte-Catherine et Souricière</title>
    <description>Sainte-Catherine, Sénat et retraites, Birmanie, Taïwan, Iowa, Apple et RED, Xiaomi, les six chapeaux de De Bono, le kimjang à Séoul, les tenues jetables en Chine, Courteline, la Blanche-Nef et La Souricière d'Agatha Christie.</description>
@@ -330,17 +341,6 @@
    <guid isPermaLink="false">le-petit-matin-2026-10-28</guid>
    <pubDate>Wed, 28 Oct 2026 05:00:00 +0000</pubDate>
    <itunes:duration>364</itunes:duration>
-   <itunes:explicit>false</itunes:explicit>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title>Mardi 27 octobre : Jaipur, Metz et Big Bang</title>
-   <description>Les annonces de Lecornu aux lycéens, la Jordanie frappe la Syrie, le plénum chinois, Trump au Mississippi et le nouvel iPad mini ; les décisions de type un et deux de Jeff Bezos ; Jaipur et Diwali ; le Double Onze en Chine ; Alain ; la capitulation de Metz en 1870 et le Big Bang de la City en 1986.</description>
-   <itunes:summary>Les annonces de Lecornu aux lycéens, la Jordanie frappe la Syrie, le plénum chinois, Trump au Mississippi et le nouvel iPad mini ; les décisions de type un et deux de Jeff Bezos ; Jaipur et Diwali ; le Double Onze en Chine ; Alain ; la capitulation de Metz en 1870 et le Big Bang de la City en 1986.</itunes:summary>
-   <enclosure url="https://k95hjfrvg2-del.github.io/le-petit-matin/episodes/2026-10-27.mp3" length="2657325" type="audio/mpeg"/>
-   <guid isPermaLink="false">le-petit-matin-2026-10-27</guid>
-   <pubDate>Tue, 27 Oct 2026 05:00:00 +0000</pubDate>
-   <itunes:duration>332</itunes:duration>
    <itunes:explicit>false</itunes:explicit>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
