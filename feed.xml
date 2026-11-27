@@ -13,7 +13,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:owner><itunes:name>Petit Matin Good Vibes</itunes:name><itunes:email>podcast@users.noreply.github.com</itunes:email></itunes:owner>
-  <lastBuildDate>Thu, 26 Nov 2026 05:08:15 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 05:08:01 +0000</lastBuildDate>
+  <item>
+   <title>Vendredi 27 novembre : Toulon, Nobel et Black Friday</title>
+   <description>Lisnard réélu chez les maires, Norse Atlantic à l'arrêt, paiements ASEAN+3, nouveaux droits de douane américains, Black Friday d'Apple et Huawei en Chine ; leadership situationnel ; Kochi au Kerala ; la renaissance d'une chanson coréenne ; Voltaire ; le sabordage de Toulon et le testament de Nobel.</description>
+   <itunes:summary>Lisnard réélu chez les maires, Norse Atlantic à l'arrêt, paiements ASEAN+3, nouveaux droits de douane américains, Black Friday d'Apple et Huawei en Chine ; leadership situationnel ; Kochi au Kerala ; la renaissance d'une chanson coréenne ; Voltaire ; le sabordage de Toulon et le testament de Nobel.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/le-petit-matin/episodes/2026-11-27.mp3" length="3139437" type="audio/mpeg"/>
+   <guid isPermaLink="false">le-petit-matin-2026-11-27</guid>
+   <pubDate>Fri, 27 Nov 2026 05:00:00 +0000</pubDate>
+   <itunes:duration>392</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Jeudi 26 novembre : la Bérézina et Alice</title>
    <description>Déficit français, mines à Ormuz, hausse des taux en Corée, Alaska, Apple contre Epic et Huawei condamné ; le Lean Coffee, Pingyao, le Dr Pepper au Japon, Alphonse Karr, la Bérézina et Alice au pays des merveilles.</description>
@@ -330,17 +341,6 @@
    <guid isPermaLink="false">le-petit-matin-2026-10-29</guid>
    <pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
    <itunes:duration>397</itunes:duration>
-   <itunes:explicit>false</itunes:explicit>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title>Mercredi 28 octobre : qui a le D ?</title>
-   <description>La Corse au Sénat, Israël aux urnes, les nouveaux Mac M6, la méthode RAPID, Yi Peng à Chiang Mai, la folie du tteok en Corée, Montesquieu, le référendum de 1962 et la fin de la crise de Cuba.</description>
-   <itunes:summary>La Corse au Sénat, Israël aux urnes, les nouveaux Mac M6, la méthode RAPID, Yi Peng à Chiang Mai, la folie du tteok en Corée, Montesquieu, le référendum de 1962 et la fin de la crise de Cuba.</itunes:summary>
-   <enclosure url="https://k95hjfrvg2-del.github.io/le-petit-matin/episodes/2026-10-28.mp3" length="2911725" type="audio/mpeg"/>
-   <guid isPermaLink="false">le-petit-matin-2026-10-28</guid>
-   <pubDate>Wed, 28 Oct 2026 05:00:00 +0000</pubDate>
-   <itunes:duration>364</itunes:duration>
    <itunes:explicit>false</itunes:explicit>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
