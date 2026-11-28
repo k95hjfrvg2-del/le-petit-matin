@@ -13,7 +13,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:owner><itunes:name>Petit Matin Good Vibes</itunes:name><itunes:email>podcast@users.noreply.github.com</itunes:email></itunes:owner>
-  <lastBuildDate>Fri, 27 Nov 2026 05:08:01 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 04:51:53 +0000</lastBuildDate>
+  <item>
+   <title>Samedi 28 novembre : fête de Chichibu et Royal Society</title>
+   <description>Violences contre les élus, sommet européen sans accord, inflation à Tokyo, Black Friday, MacBook Air et Xiaomi, l'inversion de Munger, la fête de nuit de Chichibu, rendez-vous porcelaine à Shanghai, Diderot, le traité de Versailles de 1787 et la naissance de la Royal Society.</description>
+   <itunes:summary>Violences contre les élus, sommet européen sans accord, inflation à Tokyo, Black Friday, MacBook Air et Xiaomi, l'inversion de Munger, la fête de nuit de Chichibu, rendez-vous porcelaine à Shanghai, Diderot, le traité de Versailles de 1787 et la naissance de la Royal Society.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/le-petit-matin/episodes/2026-11-28.mp3" length="3015597" type="audio/mpeg"/>
+   <guid isPermaLink="false">le-petit-matin-2026-11-28</guid>
+   <pubDate>Sat, 28 Nov 2026 05:00:00 +0000</pubDate>
+   <itunes:duration>377</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Vendredi 27 novembre : Toulon, Nobel et Black Friday</title>
    <description>Lisnard réélu chez les maires, Norse Atlantic à l'arrêt, paiements ASEAN+3, nouveaux droits de douane américains, Black Friday d'Apple et Huawei en Chine ; leadership situationnel ; Kochi au Kerala ; la renaissance d'une chanson coréenne ; Voltaire ; le sabordage de Toulon et le testament de Nobel.</description>
@@ -330,17 +341,6 @@
    <guid isPermaLink="false">le-petit-matin-2026-10-30</guid>
    <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
    <itunes:duration>371</itunes:duration>
-   <itunes:explicit>false</itunes:explicit>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title>Jeudi 29 octobre : le Mac devient tactile</title>
-   <description>Sénat et loi casseurs-payeurs, Israël sans majorité, Kospi au-dessus de six mille, la Fed en pause, le MacBook Pro tactile et Alphabet ; le principe de la pyramide de Barbara Minto ; Kanazawa et sa feuille d'or ; les écouteurs Kinoko no Yama ; La Bruyère ; Suez en 1888 et le mardi noir de 1929.</description>
-   <itunes:summary>Sénat et loi casseurs-payeurs, Israël sans majorité, Kospi au-dessus de six mille, la Fed en pause, le MacBook Pro tactile et Alphabet ; le principe de la pyramide de Barbara Minto ; Kanazawa et sa feuille d'or ; les écouteurs Kinoko no Yama ; La Bruyère ; Suez en 1888 et le mardi noir de 1929.</itunes:summary>
-   <enclosure url="https://k95hjfrvg2-del.github.io/le-petit-matin/episodes/2026-10-29.mp3" length="3177453" type="audio/mpeg"/>
-   <guid isPermaLink="false">le-petit-matin-2026-10-29</guid>
-   <pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
-   <itunes:duration>397</itunes:duration>
    <itunes:explicit>false</itunes:explicit>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
